@@ -1,0 +1,21 @@
+<HTML><HEAD>
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=UTF-8">
+</HEAD>
+<dl>
+<dt>Results for output field y</dt>
+<dd><dl>
+<dt>Comparing $KNN-y with y</dt>
+<dd><dl>
+<pre>'Partition'            1_Training            2_Testing            3_Validation         
+Correct                    10,295   72.03%       1,245   71.92%          1,285   71.87%
+Wrong                       3,998   27.97%         486   28.08%            503   28.13%
+Total                      14,293                1,731                   1,788         
+</pre>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</HTML>
